@@ -1,0 +1,2 @@
+My first Applictaion in Spring using annotations.
+Application: conecting with MySql database, uses forms in html to enter a data, it is a simple bookstore which adding new book to database
